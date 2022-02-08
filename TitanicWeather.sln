@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TitanicWeatherAPI", "TitanicWeatherAPI\TitanicWeatherAPI.csproj", "{EACD1BBB-7A11-4756-97DD-94C0EFCC5E0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TitanicUDPServer", "TitanicUDPServer\TitanicUDPServer.csproj", "{D280E805-7F4A-4A63-B574-A69606C5EFE1}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TitanicVUE", "TitanicVUE\TitanicVUE.njsproj", "{EAF37380-5D9D-4A12-AA69-C9B3D78FFA45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACD1BBB-7A11-4756-97DD-94C0EFCC5E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACD1BBB-7A11-4756-97DD-94C0EFCC5E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACD1BBB-7A11-4756-97DD-94C0EFCC5E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACD1BBB-7A11-4756-97DD-94C0EFCC5E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D280E805-7F4A-4A63-B574-A69606C5EFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D280E805-7F4A-4A63-B574-A69606C5EFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D280E805-7F4A-4A63-B574-A69606C5EFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D280E805-7F4A-4A63-B574-A69606C5EFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF37380-5D9D-4A12-AA69-C9B3D78FFA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF37380-5D9D-4A12-AA69-C9B3D78FFA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF37380-5D9D-4A12-AA69-C9B3D78FFA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF37380-5D9D-4A12-AA69-C9B3D78FFA45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6EADC2E-7EF3-47A3-BE7E-6FCD3BFAA120}
+	EndGlobalSection
+EndGlobal
